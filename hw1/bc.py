@@ -3,7 +3,7 @@ import tensorflow as tf
 import pickle as pkl
 import gym
 import matplotlib.pyplot as plt
-
+#haha hwerqr
 def weight_variable(shape):
 	initial = tf.truncated_normal(shape, stddev=0.1)
 	return tf.Variable(initial)
